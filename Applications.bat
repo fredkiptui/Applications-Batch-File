@@ -12,10 +12,11 @@ start "" "https://www.corporatestaffing.co.ke/category/graphic-design-jobs-in-ke
 
 FUZU:
 start "" "https://www.fuzu.com/job/computers-software-development?filters[job_id]=760508&filters[country_id]=1&page=1"
-https://www.fuzu.com/job/design-arts?page=1&filters[job_id]=769135
+start "" "https://www.fuzu.com/job/design-arts?page=1&filters[job_id]=769135"
 
 BRIGHTER MONDAY
 start "" "https://www.brightermonday.co.ke/"
+start "" "https://www.brightermonday.co.ke/jobs/creative-design
 
 
 MYJOBMAG

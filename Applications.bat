@@ -23,4 +23,5 @@ start "" "https://www.myjobmag.co.ke/jobs-by-field/graduate-jobs"
 start "" "https://www.myjobmag.co.ke/jobs-by-field/information-technology"
 start "" "https://www.myjobmag.co.ke/search/jobs?field=Graduate+Jobs"
 
+BRITES
 start "" "https://www.britesmanagement.com/jobs"
